@@ -10,6 +10,7 @@
 Trinta e cinco tipos, extraídos dos `p_event_type` de toda chamada a `emit_event`
 em `lib/`, `app/` e `workers/` no SHA `4f89a0da` (excluindo `*.test.ts`):
 
+
 ```
 ai.handoff_resolved            lead.created                   message.failed
 ai.handoff_triggered           lead.risk_backlog_seeded       message.received
